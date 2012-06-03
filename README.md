@@ -1,8 +1,8 @@
 ne-trans [नेपाली रुपान्तर्ण]
 ====================
 
-अंग्रेजीमा लेखिएको नेपालीलाई देवनागरी लिपीमा रुपान्तर्ण ।
-Nepali to English transliterate.
+अंग्रेजी(लेटिन) लिपीमा लेखिएको लेखलाई देवनागरी लिपीमा रुपान्तर्ण गर्ने ।
+English(latin) to Nepali transliterate.
 
 यो लेख(प्रोग्राम) नेपाली विकिपीडियाको ह्याकाथन दौरान लेखीएको हो। जुनैड पी. भी. को कार्यबाट derived गरिएको हो।
 This script was written during ne-wiki-hackathon. Orginally derived from the
@@ -15,4 +15,9 @@ Quick brown fox jump over the lazy dog
 
 Nepali wikipediyako dashau janmotsav, 2012 Jun 03
 नेपालि विकिपेदियाको दास्हाउ जान्मोत्साभ्, २०१२ जुन ०३
+
+Note
+----
+Might face display problem with the xterm, gnome-terminal.
+In case or problem redirect to file and open with suitable editor.
 

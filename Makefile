@@ -1,8 +1,5 @@
 all: test
 
 test:
-	./main.sh string
-
-clean:
-	rm string2
+	./main.sh string.txt
 

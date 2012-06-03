@@ -16,6 +16,19 @@ function Usage {
 # modifer
 	sed -f exp_dev /tmp/dev.txt > /tmp/tran.txt
 
-# full the half thing
-	sed -f exp_fixes /tmp/tran.txt
+# fixes
+	sed -f exp_fixes -i /tmp/tran.txt
+
+# terminal has the problem with the devnagari script
+	counter=1;
+	rm /tmp/show.txt
+	while read i; do
+		sed "$counter!d" string.txt >>/tmp/show.txt
+		echo "$i" >>/tmp/show.txt
+		counter=$(($counter+1))
+	done < /tmp/tran.txt
+
+	cat /tmp/show.txt
+
+	gdialog --textbox /tmp/show.txt 50 60
 
