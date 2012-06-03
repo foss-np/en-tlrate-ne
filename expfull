@@ -1,4 +1,5 @@
 s/[Aa]/अ/g
+s/[Bb]/ब्/g
 s/[Cc]/च्/g
 s/[Dd]/द्/g
 s/[Gg]/ग्/g
@@ -14,6 +15,7 @@ s/[Nn]/न्/g
 s/[Pp]/प्/g
 
 s/[Tt]/त्/g
-s/[Vv]/व्/g
+s/[VvWw]/व्/g
+s/[Xx]/क्ष्/g
 s/[Yy]/य्/g
 

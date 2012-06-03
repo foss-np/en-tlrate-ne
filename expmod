@@ -3,6 +3,8 @@ s/i/ि/g
 s/e/े/g
 s/o/ो/g
 s/u/ु/g
+s/I/इ/g
+s/[Uu]/उ/g
 
 s/्अ//g
 s/्आ/ा/g
