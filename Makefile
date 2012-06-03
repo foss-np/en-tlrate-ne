@@ -1,3 +1,3 @@
 all:
-	./test.sh
+	./main.sh
 
