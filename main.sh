@@ -12,5 +12,5 @@
 # full the half thing
 	sed -f exphalf string2
 
-rm string1 strnum
+rm string1 strnum string2
 

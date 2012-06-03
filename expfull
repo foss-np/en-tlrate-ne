@@ -1,5 +1,5 @@
-s/[Aa]/अ/
-s/[Cc]h/च्/g
+s/[Aa]/अ/g
+s/[Cc]/च्/g
 s/[Dd]/द्/g
 s/[Gg]/ग्/g
 s/[Jj]/ज्/g
@@ -9,13 +9,11 @@ s/[Rr]/र्/g
 s/[Ss]/स्/g
 
 s/[Hh]/ह्/g
-s/ह्i/हि/g
-s/ह्e/हे/g
 s/[Mm]/म्/g
-s/म्a/मा/g
 s/[Nn]/न्/g
 s/[Pp]/प्/g
-s/प्a/पा/g
+
 s/[Tt]/त्/g
-s/त्a/ता/g
+s/[Vv]/व्/g
+s/[Yy]/य्/g
 
