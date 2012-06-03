@@ -1,7 +1,8 @@
-all:
-	./main.sh
+all: test
+
+test:
+	./main.sh string
 
 clean:
 	rm string2
-	rm strnum
 

@@ -1,4 +1,10 @@
-ne-wiki
+ne-trans - English to Nepali transliterate
 
-written in bash script
+ne-trans is the English to Nepali transliterate script written in bash.
+This script was written during ne-wiki-hackathon. Orginally derived from the
+the work of Junaid P V ([[user:Junaidpv]]) wikipedia.
+
+USAGE
+
+$ ./main.sh [file]
 

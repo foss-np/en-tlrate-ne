@@ -1,16 +1,21 @@
 #!/bin/bash
 
-# convert number
-	sed -f expnum string > strnum
+function Usage {
+	echo -e "\nUsage: \t`basename $0` [File]";
+}
 
-# literal scan
-	sed -f expfull strnum > string1
+# checking arguments
+	if [ $# -eq 0 ]; then
+		Usage;
+		exit;
+	fi
 
-# double modifer
-	sed -f expmod string1 > string2
+# latin to devnagari
+	sed -f exp_latin $1 > /tmp/dev.txt
+
+# modifer
+	sed -f exp_dev /tmp/dev.txt > /tmp/tran.txt
 
 # full the half thing
-	sed -f exphalf string2
-
-rm string1 strnum string2
+	sed -f exp_fixes /tmp/tran.txt
 
