@@ -1,5 +1,5 @@
-Nepali Wikipediyako Dashau janmotsav
-2012 Jun 03
+Nepali Wikipediyako Dashau janmotsav 2012 Jun 03
+Unicode transliterate for Linux
 
 Chandan Prasad Gupta
 Ganesh Kumar Paudel
@@ -14,8 +14,18 @@ Saroj Kumar Dhakal
 Shivaraj Upadhyaya
 Sunil Das Shrestha
 
-k kh g gh knya
-ch cha j jh yaa
+salil Awaale
+akchhar
+Om Omkar Nepal
+Om
+
+ka kachuwa
+kha kharayo
+g gamala
+gh ghar
+knya
+ch chamcha
+cha j jh yaa
 ta tha da tha naa
 ta tha da tha na
 pa fa ba bha ma

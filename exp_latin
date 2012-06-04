@@ -10,7 +10,7 @@ s/8/८/g
 s/9/९/g
 s/[Aa]/अ/g
 s/[Bb]/ब्/g
-s/[Cc]/च्/g
+s/[Cc]/क्/g
 s/[Dd]/द्/g
 s/[Ee]/ए/g
 s/[Ff]/फ्/g
@@ -18,7 +18,7 @@ s/[Gg]/ग्/g
 s/[Hh]/ह्/g
 s/[Ii]/इ/g
 s/[Jj]/ज्/g
-s/[Kk]/क्/g
+#s/[Kk]/क्/g
 s/[Ll]/ल्/g
 s/[Mm]/म्/g
 s/[Nn]/न्/g
