@@ -1,7 +1,8 @@
 #!/bin/bash
 
 function Usage {
-	echo -e "\nUsage: \t`basename $0` [File]";
+	echo "Argument Missing";
+	echo -e "Usage: \t`basename $0` [File]";
 }
 
 # checking arguments
