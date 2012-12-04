@@ -4,3 +4,8 @@ Problem
 च(cha) छ(ccha)
 ज(ja) झ(jha)
 
+Metaphone pronounciation (GNU aspell)
+Drop duplicate adjacent letter, except for "C"
+if word begin with "KN", "GN", "PN", "AF", "WR" drop the first letter.
+Drop "B" if after "M" and if it is end of the word
+
